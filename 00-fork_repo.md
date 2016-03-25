@@ -51,7 +51,7 @@ Here's your first chance to practice this:
 
 ---
 
-###Q1. :D
+###Q1. 
 
 What is your favorite [emoji](http://www.emoji-cheat-sheet.com/)?
 
